@@ -1,0 +1,8 @@
+*.ncb
+*.aps
+.vs
+Debug
+Release
+driver
+output
+.suo
